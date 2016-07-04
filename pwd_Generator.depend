@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1405853537 source:c:\users\ching\desktop\pwd_generator\main.c
+	<stdio.h>
+	"menu.h"
+	"generator.h"
+
+1405853579 c:\users\ching\desktop\pwd_generator\menu.h
+
+1405854046 source:c:\users\ching\desktop\pwd_generator\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1405853635 source:c:\users\ching\desktop\pwd_generator\generator.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1405853647 c:\users\ching\desktop\pwd_generator\generator.h
+
+1405544923 source:c:\users\ching\desktop\pwd_generator\ressources.rc
+
+1443823045 source:c:\users\thomas\desktop\programmes\petits projets\pwd_generator\main.c
+	<stdio.h>
+	"menu.h"
+	"generator.h"
+
+1443823173 c:\users\thomas\desktop\programmes\petits projets\pwd_generator\menu.h
+
+1443823175 c:\users\thomas\desktop\programmes\petits projets\pwd_generator\generator.h
+
+1405548523 source:c:\users\thomas\desktop\programmes\petits projets\pwd_generator\ressources.rc
+
+1443823245 source:c:\users\thomas\desktop\programmes\petits projets\pwd_generator\generator.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1443823487 source:c:\users\thomas\desktop\programmes\petits projets\pwd_generator\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
