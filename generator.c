@@ -8,7 +8,7 @@ void write_pwd (unsigned long numberOfPasswords, unsigned long numberOfLetters)
     srand(time(NULL));
     char *chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
     FILE* pwd = fopen("passwords.txt", "a");
-    unsigned int i = 0, j = 0; // i = j = 0 plutôt ?
+    unsigned int i = 0, j = 0;
 
     for (i = 0; i < numberOfPasswords; ++i)
     {
